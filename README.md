@@ -9,6 +9,6 @@ I am proficient in JavaScript, TypeScript and the React ecosystem.
 
 Gmail: adhamtarek291@gmail.com<br>
 GitHub: https://github.com/adham618<br>
-LinkedIn: www.linkedin.com/in/adham18<br>
+LinkedIn: https://linkedin.com/in/adham18<br>
 Codepen: https://codepen.io/adham618<br>
-Portfolio: https://adhamtarek.me/<br>
+Portfolio: https://adhamtarek.vercel.app/<br>
