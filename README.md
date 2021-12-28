@@ -7,8 +7,8 @@ I am proficient in JavaScript, TypeScript and the React ecosystem.
 
 ### Contact Me
 
-Gmail: adhamtarek291@gmail.com<br>
-GitHub: https://github.com/adham618<br>
-LinkedIn: https://linkedin.com/in/adham18<br>
-Codepen: https://codepen.io/adham618<br>
 Portfolio: https://adhamtarek.vercel.app<br>
+LinkedIn: https://linkedin.com/in/adham18<br>
+GitHub: https://github.com/adham618<br>
+Codepen: https://codepen.io/adham618<br>
+Gmail: adhamtarek291@gmail.com<br>
