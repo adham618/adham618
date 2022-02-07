@@ -1,12 +1,12 @@
 
 ### Hi there 👋
-I'm a React JS Developer who loves to build user-centric products that solve real world problems.
-I am proficient in JavaScript, TypeScript and the React ecosystem.
-My passion lies in learning about the latest technologies.
+I'm Adham Tarek. I'm a Front End Developer My role is to write and style the front-end components that meet the requirements of our mocks and fulfill our user stories. I also monitor and process pull requests for production deployments. 
+Technologies used: JavaScript, React, Redux, Next.js, TypeScript, Tailwind CSS, etc. 
+I can work alone or within a team.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adham618&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-### Contact Me
+### take a look at my work or get in touch!
 
 Portfolio: https://adhamtarek.vercel.app<br>
 LinkedIn: https://linkedin.com/in/adham18<br>
