@@ -6,7 +6,7 @@ I can work alone or within a team.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adham618&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-### take a look at my work or get in touch!
+### Take a look at my work or get in touch!
 
 Portfolio: https://adhamtarek.vercel.app<br>
 LinkedIn: https://linkedin.com/in/adham18<br>
