@@ -10,6 +10,6 @@ I can work alone or within a team.
 
 Portfolio: https://adhamtarek.vercel.app<br>
 LinkedIn: https://linkedin.com/in/adham18<br>
-GitHub: https://github.com/<br>
+GitHub: https://github.com/adham618<br>
 Codepen: https://codepen.io/adham618<br>
 Gmail: adhamtarek291@gmail.com<br>
