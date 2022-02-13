@@ -9,7 +9,7 @@ I can work alone or within a team.
 ### Take a look at my work or get in touch!
 
 Portfolio: https://adhamtarek.vercel.app<br>
-LinkedIn: https://linkedin.com/in/adham18<br>
+LinkedIn: https://linkedin.com/in/adham618<br>
 GitHub: https://github.com/adham618<br>
 Codepen: https://codepen.io/adham618<br>
 Gmail: adhamtarek291@gmail.com<br>
