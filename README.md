@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-I'm Adham Tarek. I'm a Front End Developer My role is to write and style the front-end components that meet the requirements of our mocks and fulfill our user stories. I also monitor and process pull requests for production deployments.<br>
+I'm Adham Tarek. I'm a Front End Developer My role is to write and style the front-end components that meet the requirements of our mocks and fulfill our user stories. I can also monitor and process pull requests for production deployments.<br>
 Technologies used: JavaScript, React, Redux, Next.js, TypeScript, Tailwind CSS, etc.<br>
 I can work alone or within a team.
 
