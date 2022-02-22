@@ -10,7 +10,6 @@ Technologies used: JavaScript, React, Redux, Next.js, TypeScript, Tailwind CSS, 
 ### Take a look at my work or get in touch!
 
 Portfolio: https://adhamtarek.vercel.app<br>
-LinkedIn: https://linkedin.com/in/adham618<br>
+LinkedIn: https://linkedin.com/in/adham-tarek<br>
 GitHub: https://github.com/adham618<br>
-Codepen: https://codepen.io/adham618<br>
 Gmail: adhamtarek291@gmail.com<br>
