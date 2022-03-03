@@ -1,13 +1,12 @@
 
 ### Hi there 👋
-I'm Adham , a Front-End Developer with experience in building websites for small and medium-sized businesses.
-My role is to write and style the front-end components that meet the requirements of our mocks and fulfill our user stories.
-I can also monitor and process pull requests for production deployments.<br>
-Technologies used: JavaScript, React, Redux, Next.js, TypeScript, Tailwind CSS, etc.<br>
+I'm a front-end developer with a strong background in Computer Science, experience in building websites for small and medium-sized businesses. 
+I’m experienced in javascript, React, Redux, Next.js, TypeScript, Tailwind CSS,  Strapi Headless-CMS, etc".
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adham618&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-### Take a look at my work or get in touch!
+### Take a look at my work!
 
 Portfolio: https://adhamtarek.vercel.app<br>
 LinkedIn: https://linkedin.com/in/adham-tarek<br>
