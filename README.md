@@ -1,7 +1,6 @@
 
 ### Hi there 👋
-I'm a front-end developer with a strong background in Computer Science,<br/>
-experience in building websites for small and medium-sized businesses.<br/>
+I'm a front-end developer with a strong background in Computer Science,experience in building websites for small and medium-sized businesses.<br/>
 I’m experienced in javascript, React, Redux, Next.js, TypeScript, Tailwind CSS,  Strapi Headless-CMS, etc".
 
 
