@@ -4,7 +4,7 @@ I'm a front-end developer with a strong background in Computer Science,experienc
 I’m experienced in javascript, React, Redux, Next.js, TypeScript, Tailwind CSS,  Strapi Headless-CMS, etc.
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adham618&theme=react&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adham618&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF&currStreakLabel=1D6ADD&fire=1D6ADD&ring=1D6ADD)](https://git.io/streak-stats)
 
 ### Take a look at my work!
 
