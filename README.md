@@ -19,5 +19,4 @@ I like to design and build beautiful and functional websites and web application
 
 Portfolio: https://adhamtarek.vercel.app<br>
 LinkedIn: https://linkedin.com/in/adham-tarek<br>
-GitHub: https://github.com/adham618<br>
-Gmail: adhamtarek291@gmail.com<br>
+Email: adhamtarek291@gmail.com<br>
