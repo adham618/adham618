@@ -1,7 +1,12 @@
 
 ### Hi there 👋
-I'm a front-end developer with a strong background in Computer Science, experience in building websites for small and medium-sized businesses.<br/>
-I’m experienced in javascript, React, Redux, Next.js, TypeScript, Tailwind CSS,  Strapi Headless-CMS, etc.
+I am Adham Tarek, a Frontend Developer from Egypt.<br/>
+
+I’m experienced in javascript, React, Redux, Next.js, TypeScript, etc.
+
+I am a passionate person who loves to learn new things and solve problems. I am a self-taught developer and I am always looking for new challenges.<br/>
+
+I like to design and build beautiful and functional websites and web applications, taking special care to produce clear and understandable code. I love teamwork and good communication, always open to feedback and willing to learn new things.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adham618&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=000000&ring=000000&fire=000000)](https://git.io/streak-stats)<br/>
 
