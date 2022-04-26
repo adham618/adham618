@@ -1,12 +1,13 @@
 
 ### Hi there 👋
-I am Adham Tarek, a Frontend Developer from Egypt.<br/>
 
-I’m experienced in Javascript, React, Redux, TypeScript,  Next.js, etc.
+My name is Adham Tarek. I’m experienced in Javascript, React, Redux, TypeScript, Next.js, etc.
 
-I am a passionate person who loves to learn new things and solve problems. I am a self-taught developer and I am always looking for new challenges.<br/>
+I like designing and build beautiful and functional websites and web applications, taking special care to produce clear and understandable code.
 
-I like to design and build beautiful and functional websites and web applications, taking special care to produce clear and understandable code. I love teamwork and good communication,am always open to feedback and willing to learn new things.
+I can convert any design of any complexity into amazing work using HTML, CSS, Bootstrap, TailwindCSS and Sass, and can build the web project for you using React, Redux, Next js, Material UI, and Firebase.
+
+The websites you will get is always be pixel-perfect, SEO-friendly, responsive, mobile-optimized, w3c validated and the style is always consistent and centralized.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adham618&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=000000&ring=000000&fire=000000)](https://git.io/streak-stats)<br/>
 
