@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-My Name is Adham. I’m a Frontend Engineer experienced in Javascript, React, Redux, TypeScript, Next.js, etc.
+I’m Adham. I’m a Frontend Engineer.
 
 I like designing and build beautiful and functional websites and web applications, taking special care to produce clear and understandable code.
 
