@@ -11,8 +11,7 @@ The websites you will get are always pixel-perfect, SEO-friendly, responsive, mo
 
 Take a look at my work!
 
-GitHub: https://github.com/adham618
-Portfolio: https://adhamtarek.vercel.app
+Portfolio: https://adhamtarek.vercel.app <br/>
 Email: adhamtarek291@gmail.com
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adham618&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=000000&ring=000000&fire=000000)](https://git.io/streak-stats)<br/>
