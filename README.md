@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-A Frontend Developer with 2+ years of experience like working on interesting projects. Anything from fixing already existing pages to developing a website from scratch.<br/>
+A Frontend Developer with 2+ years of experience love working on interesting projects. Anything from fixing already existing pages to developing a website from scratch.<br/>
 
 I can convert any design of any complexity into amazing work using HTML, CSS, Bootstrap, TailwindCSS, or Sass, and can build any web project for you using React, Redux, Next js, Material UI, and Firebase.<br/>
 
