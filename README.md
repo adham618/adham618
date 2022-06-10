@@ -1,9 +1,7 @@
 
 ### Hi there 👋
 
-A Frontend developer. I'd like to work on interesting projects. Anything from fixing already existing pages to developing a website from scratch.<br/>
-
-I like to design and build beautiful and functional websites and web applications, taking special care to produce clear and understandable code.<br/>
+A Frontend Developer with 2+ years of experience like working on interesting projects. Anything from fixing already existing pages to developing a website from scratch.<br/>
 
 I can convert any design of any complexity into amazing work using HTML, CSS, Bootstrap, TailwindCSS, or Sass, and can build any web project for you using React, Redux, Next js, Material UI, and Firebase.<br/>
 
