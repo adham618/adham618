@@ -11,12 +11,12 @@ My skills:<br/>
 *** CSS<br/>
 *** JavaScript<br/>
 *** TypeScript<br/>
+*** Sass<br/>
 *** Bootstrap<br/>
 *** TailwindCSS<br/>
 *** Reactjs<br/>
 *** NextJS<br/>
-*** StrapiHeadless CMS<br/>
-*** Easy communication<br/>
+*** Strapi Headless CMS<br/>
 
 If that's what you need - please, contact me!
 
