@@ -1,9 +1,6 @@
 
-### Hi there 👋
-
-A Frontend Developer with 2+ years of experience. I like working on interesting projects. Anything from fixing already existing pages to developing a website from scratch.<br/>
-
-I can convert any design of any complexity into amazing work using HTML, CSS, Bootstrap, TailwindCSS, or Sass, and can build any web project for you using React, Redux, Next js, Material UI, and Firebase.<br/>
+<h1 align="center">Hi 👋, I'm Adham Tarek</h1>
+<h3 align="center">A passionate frontend developer from Egypt</h3>
 
 My skills:<br/>
 
