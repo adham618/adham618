@@ -2,19 +2,6 @@
 <h1 align="center">Hi 👋, I'm Adham Tarek</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-<h3>My skills:</h3>
-
-*** HTML/HTML5<br/>
-*** CSS<br/>
-*** JavaScript<br/>
-*** TypeScript<br/>
-*** Sass<br/>
-*** Bootstrap<br/>
-*** TailwindCSS<br/>
-*** Reactjs<br/>
-*** NextJS<br/>
-*** Strapi Headless CMS<br/>
-
 <h3>Contact me!</h3>
 
 Portfolio: https://adhamtarek.vercel.app<br>
