@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adham Tarek</h1>
+![github-header-image (1)](https://user-images.githubusercontent.com/88515844/221865939-e11cc2ab-19ec-4ff7-8d02-0e1e74617f27.png)
 
 ## I'm a Front End Developer, ReactJs/NextJS developer and avid learner!
 - Passionate about web development technologies!
