@@ -1,6 +1,6 @@
 ![github-header-image (1)](https://user-images.githubusercontent.com/88515844/221865939-e11cc2ab-19ec-4ff7-8d02-0e1e74617f27.png)
 
-## I'm a Front End Developer, ReactJs/NextJS developer and avid learner!
+## I'm a Front End Developer, ReactJs/NextJS developer
 - Passionate about web development technologies!
 - Building cool projects. 
 - Contributing to the community.
