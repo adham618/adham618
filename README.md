@@ -1,13 +1,6 @@
 ![github-header-image (1)](https://user-images.githubusercontent.com/88515844/221865939-e11cc2ab-19ec-4ff7-8d02-0e1e74617f27.png)
 
-## I'm a Front End Developer, ReactJs/NextJS developer
-- Passionate about web development technologies!
-- Building cool projects. 
-- Contributing to the community.
-- Learning new web technologies.
-
-## Frontend 
-* HTML, CSS, JAVASCRIPT, REACT, REDUX, CSS LIBRARIES, SASS, Typescript, Nexjs, Material UI, Tailwind CSS
+I'm a Front-End Developer experienced in React.js and Next.js, using React with TypeScript. I work with Prisma and Drizzle for databases and use Cypress and Playwright for testing. I also develop mobile apps with React Native and Expo.
 
 
 ### Languages and Tools:
