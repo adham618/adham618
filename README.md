@@ -4,8 +4,9 @@ I'm a Front-End Developer experienced in React.js and Next.js, using React with 
 
 <h3>Contact me!</h3>
 
-Portfolio: https://adhamtarek.vercel.app<br>
-LinkedIn: https://linkedin.com/in/adham-tarek<br>
+Portfolio: [https://adhamtarek.vercel.app](https://adhamtarek.vercel.app)<br>
+LinkedIn: [https://linkedin.com/in/adham-tarek](https://linkedin.com/in/adham-tarek)<br>
+Gitlab: [https://gitlab.com/adhamtarek](https://gitlab.com/adhamtarek)<br>
 Email: adhamtarek291@gmail.com<br>
 
 [![GitHub Streak](http://streak-stats.demolab.com?user=adham618&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=000000&ring=000000&fire=000000)](https://git.io/streak-stats)<br/>
