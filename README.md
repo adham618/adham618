@@ -1,6 +1,8 @@
 # Hey There! 👋
 **I'm adham** - I'm a frontend developer experienced in React.js and Next.js, using React with TypeScript. I work with Prisma and Drizzle for databases and use Cypress and Playwright for testing. I also develop mobile apps with React Native and Expo.
 
+**Languages and Tools:**  
+
 [![SkillIcons](https://skillicons.dev/icons?i=js,ts,tailwind,react,nextjs,astro,gatsby,prisma,cloudflare,firebase,supabase,git,github,gitlab)](https://skillicons.dev)<br/>
 [](https://github.com/tandpfun/skill-icons)
 
