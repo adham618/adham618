@@ -1,6 +1,8 @@
 # Hey There! 👋
-**I'm Adham**, a frontend developer specializing in React.js and Next.js with TypeScript. I work with Prisma and Drizzle for databases and use Cypress and Playwright for testing. I also develop mobile apps using React Native and Expo.
 
+**I'm Adham**, a frontend engineer pushing the boundaries of React.js, Next.js, and TypeScript. I craft sleek, high-performance web and mobile experiences using the latest tech—Prisma, Drizzle, Cypress, Playwright, React Native, Expo, and more.
+
+ Something big is coming. Stay tuned. ⚡
 
 **Languages and Tools:**  
 
