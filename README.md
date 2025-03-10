@@ -2,8 +2,6 @@
 
 **I'm Adham**, a frontend engineer pushing the boundaries of React.js, Next.js, and TypeScript. I craft sleek, high-performance web and mobile experiences using the latest tech—Prisma, Drizzle, Cypress, Playwright, React Native, Expo, and more.
 
- Something big is coming. Stay tuned. ⚡
-
 **Languages and Tools:**  
 
 [![SkillIcons](https://skillicons.dev/icons?i=js,ts,tailwind,react,nextjs,astro,gatsby,prisma,cloudflare,firebase,supabase,git,github,gitlab)](https://skillicons.dev)<br/>
