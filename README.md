@@ -4,8 +4,10 @@
 
 **Languages and Tools:**  
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,tailwind,react,nextjs,astro,gatsby,prisma,cloudflare,firebase,supabase,git,github,gitlab)](https://skillicons.dev)<br/>
-[](https://github.com/tandpfun/skill-icons)
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,remix,astro,gatsby,tailwind,bootstrap,sass,prisma,postgres,redis,supabase,firebase,cloudflare,workers,vercel,docker,vite,vitest,jest,cypress,regex,git,github,gitlab,vscode,postman,threejs,sentry,linux)](https://skillicons.dev) 
+[Source: Skill Icons](https://github.com/tandpfun/skill-icons)
+
+
 
 <details>
   <summary>Contact me!</summary>
