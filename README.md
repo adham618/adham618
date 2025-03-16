@@ -1,19 +1,20 @@
-# Hey There! 👋
+# Hey There! 👋  
 
-**I'm Adham**, a frontend engineer specializing in React.js, Next.js, and TypeScript. I build fast, scalable, and high-performance web and mobile experiences with the latest tech—Prisma, Drizzle, Cypress, Playwright, React Native, Expo, and more. My focus is on performance, clean UI, and seamless user experiences.
+**I'm Adham**, a frontend engineer specializing in **React.js, Next.js, and TypeScript**.  
+I build **fast, scalable, and high-performance** web and mobile experiences using the latest tech—**Prisma, Drizzle, Cypress, Playwright, React Native, Expo, and more**.  
+Focused on **performance, clean UI, and seamless user experiences**.  
 
-🚀 Open to freelance work and collaborations—let’s build something great!
+🚀 Open to freelance work and collaborations—let’s build something great!  
 
-**Languages and Tools:**  
+## Languages and Tools  
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,remix,astro,gatsby,tailwind,bootstrap,sass,prisma,postgres,redis,supabase,firebase,cloudflare,workers,vercel,docker,vite,vitest,jest,cypress,regex,git,github,gitlab,vscode,postman,threejs,sentry,linux)](https://skillicons.dev) 
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,remix,astro,gatsby,tailwind,bootstrap,sass,prisma,postgres,redis,supabase,firebase,cloudflare,workers,vercel,docker,vite,vitest,jest,cypress,regex,git,github,gitlab,vscode,postman,threejs,sentry,linux)](https://skillicons.dev)  
 
-<details>
-  <summary>Contact me!</summary>
-  Portfolio: [https://adhamtarek.vercel.app](https://adhamtarek.vercel.app)<br>
-  LinkedIn: [https://linkedin.com/in/adham-tarek](https://linkedin.com/in/adham-tarek)<br>
-  Gitlab: [https://gitlab.com/adhamtarek](https://gitlab.com/adhamtarek)<br>
-  Email: adhamtarek291@gmail.com<br>
-</details>
+## Contact Me  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adham618&label=Profile%20views&color=0e75b6&style=flat" alt="Adham Tarek" /> </p>
+📌 **Portfolio:** [adhamtarek.vercel.app](https://adhamtarek.vercel.app)  
+💼 **LinkedIn:** [linkedin.com/in/adham-tarek](https://linkedin.com/in/adham-tarek)  
+📂 **GitLab:** [gitlab.com/adhamtarek](https://gitlab.com/adhamtarek)  
+✉️ **Email:** [adhamtarek291@gmail.com](mailto:adhamtarek291@gmail.com)  
+
+![Profile Views](https://komarev.com/ghpvc/?username=adham618&label=Profile%20views&color=0e75b6&style=flat)  
