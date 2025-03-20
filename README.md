@@ -8,7 +8,7 @@ Focused on **performance, clean UI, and seamless user experiences**.
 
 ## Languages and Tools  
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,remix,astro,gatsby,tailwind,bootstrap,sass,prisma,postgres,redis,supabase,firebase,cloudflare,workers,vercel,docker,vite,vitest,jest,cypress,regex,git,github,gitlab,vscode,postman,threejs,sentry,linux)](https://skillicons.dev)  
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,remix,astro,gatsby,tailwind,bootstrap,sass,prisma,postgres,redis,supabase,firebase,cloudflare,workers,vercel,docker,vite,vitest,jest,cypress,regex,git,github,gitlab,postman,linux)](https://skillicons.dev)  
 
 ## Contact Me  
 
