@@ -4,7 +4,7 @@
 I build **fast, scalable, and high-performance** web and mobile experiences using the latest tech—**Prisma, Drizzle, Cypress, Playwright, React Native, Expo, and more**.  
 Focused on **performance, clean UI, and seamless user experiences**.  
 
-🚀 Open to freelance work and collaborations—let’s build something great!  
+🚀 Open to freelance work and collaborations. 
 
 ## Languages and Tools  
 
